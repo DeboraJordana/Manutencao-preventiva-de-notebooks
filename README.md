@@ -78,8 +78,8 @@ Remontagem e testes de funcionamento.
 
 Para apresentar o processo completo da manutenção, desenvolvemos uma apresentação com o registro das etapas realizadas nos dois notebooks. 
 
-Vizualizar apresentação do projeto 
-
+![Clique aqui para vizualizar a apresentação do projeto](https://canva.link/jnf6v0wmg8hs1ok) 
+ 
 O material apresenta, por meio de textos e fotografias, o passo a passo realizado durante a atividade. 
 
  
