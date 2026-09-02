@@ -116,13 +116,13 @@ Além dos conhecimentos técnicos, a atividade também proporcionou experiência
 
 Projeto desenvolvido por alunos do curso Técnico em Informática: 
 
-[Debora Jordana](github.com/DeboraJordana) 
+![Debora Jordana](github.com/DeboraJordana) 
 
-[Dhavi Rafael](github.com/Dhaviii001)
+![Dhavi Rafael](github.com/Dhaviii001)
 
-[Everton Ferreira](github.com/bruzzinga-oss)
+![Everton Ferreira](github.com/bruzzinga-oss)
 
-[Matheus Henrique](github.com/mateus9ff-creat)
+![Matheus Henrique](github.com/mateus9ff-creat)
 
  
 
